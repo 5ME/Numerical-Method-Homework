@@ -4,6 +4,8 @@
 作业题目及输入输出要求见 相关文档/[平时作业.docx](./相关文档/平时作业.docx)
 
 ---
+Tips: 若公式无法正常显示，请安装chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+
 01. [二分法求利率（非线性方程求解）](./README/README_01.md)
 
 02. [试值法求利率（非线性方程求解）](./README/README_02.md)
