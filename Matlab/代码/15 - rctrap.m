@@ -4,7 +4,7 @@ function T = rctrap( f,a,b,n )
 %         f是作为字符串'f'的被积函数输入
 %       - a and b are upper and lower limits of integration.
 %         a和b是积分的上限和下限
-%       - n is the number of times for recursion. n是递归的次数
+%       - n is the number of times for recursion. n是迭代次数
 %Output - T is the recursive trapezoidal rule list. T是递归梯形公式序列
     M = 1;
     h = b - a;
